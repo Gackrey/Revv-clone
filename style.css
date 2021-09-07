@@ -552,10 +552,10 @@ hr {
   .featured-carousel > h1 {
     font-size: 19px;
   }
-  h2{
+  h2 {
     font-size: 16px;
   }
-  span{
+  span {
     font-size: 14px;
   }
   .sanitized-carousel {
@@ -574,12 +574,16 @@ hr {
   .working-container {
     justify-content: center;
   }
-  .feedback-heading > h1{
+  .feedback-heading > h1 {
     font-size: 17px;
     margin-left: 0;
   }
-  .feedback-heading > span,.journey-heading > span{
+  .feedback-heading > span,
+  .journey-heading > span {
     font-size: inherit;
+  }
+  .feedback-body {
+    padding: 1rem;
   }
   .working-box {
     margin-right: 0;
@@ -614,7 +618,7 @@ hr {
   .newspapers > img:nth-child(6) {
     display: none;
   }
-  .description{
+  .description {
     display: none;
   }
 }
