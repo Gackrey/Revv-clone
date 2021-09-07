@@ -244,32 +244,32 @@ hr {
 }
 .item-1 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/jpgs/1.jpg");
+    url("./assets/img/jpgs/1.jpg");
   background-size: cover;
 }
 .item-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/jpgs/x2.jpg.pagespeed.ic.8Dnc9yIeZ4.jpg");
+    url("./assets/img/jpgs/x2.jpg.pagespeed.ic.8Dnc9yIeZ4.jpg");
   background-size: cover;
 }
 .item-3 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/jpgs/5.jpg");
+    url("./assets/img/jpgs/5.jpg");
   background-size: cover;
 }
 .item-4 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/jpgs/x4.jpg.pagespeed.ic.abF_34Z-88.jpg");
+    url("./assets/img/jpgs/x4.jpg.pagespeed.ic.abF_34Z-88.jpg");
   background-size: cover;
 }
 .item-5 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/jpgs/3.jpg");
+    url("./assets/img/jpgs/3.jpg");
   background-size: cover;
 }
 .item-6 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/jpgs/x6.jpg.pagespeed.ic.jZOnJxBh3y.jpg");
+    url("./assets/img/jpgs/x6.jpg.pagespeed.ic.jZOnJxBh3y.jpg");
   background-size: cover;
 }
 .down-arrow {
